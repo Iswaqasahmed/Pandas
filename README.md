@@ -1,2 +1,2 @@
 # Pandas:
-Open Soucse Library. Mostly use  wrap
+Open Soucse Library.
